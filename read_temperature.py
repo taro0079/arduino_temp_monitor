@@ -14,11 +14,3 @@ def read_temperature():
         temp = 0
 
     return temp
-
-
-def main():
-    print(read_temperature())
-
-
-if __name__ == "__main__":
-    main()
