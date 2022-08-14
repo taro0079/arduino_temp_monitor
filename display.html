@@ -46,17 +46,15 @@
           ],
         },
         options: {
-          plugins: {
-            streaming: {
-              duration: 20000,
-            },
-          },
           scales: {
             x: {
               type: "realtime",
               realtime: {
-                duration: 20000,
+                duration: 20000000,
               },
+            },
+            y: {
+              beginAtZero: true,
             },
           },
         },
