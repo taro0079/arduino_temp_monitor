@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "chartjs-plugin-streaming": "^2.0.0",
+    "moment": "^2.29.4",
+    "zenn-cli": "^0.1.117"
+  }
+}
